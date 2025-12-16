@@ -1,0 +1,7 @@
+{
+  "name": "Cyber-Pink Christmas Dream",
+  "description": "A high-performance, interactive 3D Christmas experience featuring 7000+ instanced particles, AI-powered hand gesture control, and a cinematic cyber-pink aesthetic.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
